@@ -5,7 +5,7 @@ const CardList = ({ data, handleClick }) => {
   return (
     <div
       className="
-     tools_layout"
+     tools_layout mb-16"
     >
       {data.map((post) => (
         <ToolCard

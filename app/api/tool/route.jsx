@@ -22,6 +22,20 @@ const data = [
     url: "",
     icon: "/robot_agi.svg",
   },
+  {
+    id: "xbb-4",
+    name: "chat-next-web",
+    description: "你得专属chatgpt聊天",
+    url: "http://209.126.124.140:8103/",
+    icon: "/robot_nextchat.svg",
+  },
+  {
+    id: "xbb-5",
+    name: "敬请期待",
+    description: "更多AI工具",
+    url: "",
+    icon: "/more.svg",
+  },
 ];
 
 export async function GET() {
