@@ -1,0 +1,17 @@
+[
+  {
+    "name": "chat",
+    "description": "聊天机器人",
+    "url": ""
+  },
+  {
+    "name": "code interpreter",
+    "description": "excel表格处理机器人",
+    "url": ""
+  },
+  {
+    "name": "SuperAgi",
+    "description": "agi智能工具",
+    "url": ""
+  }
+]
