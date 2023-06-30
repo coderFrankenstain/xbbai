@@ -4,15 +4,15 @@ const data = [
   {
     id: "xbb-1",
     name: "chat",
-    description: "chat-gpt 镜像网站",
-    url: "http://209.126.124.140:7788/",
+    description: "ai聊天机器人",
+    url: "http://207.148.15.81:7788/",
     icon: "/robot_chat.svg",
   },
   {
     id: "xbb-2",
     name: "code interpreter",
     description: "excel表格处理机器人",
-    url: "http://209.126.124.140:8102/",
+    url: "http://207.148.15.81:8102/",
     icon: "/robot_excel.svg",
   },
   {
@@ -26,7 +26,7 @@ const data = [
     id: "xbb-4",
     name: "chat-next-web",
     description: "你得专属chatgpt聊天",
-    url: "http://209.126.124.140:8103/",
+    url: "http://207.148.15.81:8103/",
     icon: "/robot_nextchat.svg",
   },
   {
